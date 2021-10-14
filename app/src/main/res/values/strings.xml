@@ -3,4 +3,6 @@
     <string name="iv_photograph_content_description" />
     <string name="menu1">menu1</string>
     <string name="menu2">menu2</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="closer_drawer">Fechar</string>
 </resources>
